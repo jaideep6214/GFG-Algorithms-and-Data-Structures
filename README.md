@@ -3,3 +3,4 @@
 ## Searching
 ## Bit Magic
 ## Mathematics
+## Tries
